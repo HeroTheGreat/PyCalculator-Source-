@@ -18,7 +18,7 @@ Guess what? I made a calculator using Unity, and then I thought, "Hey, wouldn't 
 
 ## 🧰 DIY Setup (because pros are overrated)
 
-1. **Get the Project Thing**
+1. **Get the Project Thingie**
     ```bash
     git clone https://github.com/yourusername/unity-python-calculator.git
     ```
