@@ -14,6 +14,8 @@ Guess what? I made a calculator using Unity, and then I thought, "Hey, wouldn't 
 
 - With UnityPy, I can run Python scripts right inside Unity. It's kinda like Unity's learning Python as a second language.
 
+[![How it looks like?](https://i.postimg.cc/d0NX5RhT/1-1.png)](https://postimg.cc/bGb3JtHz)
+
 ## 🧰 DIY Setup (because pros are overrated)
 
 1. **Get the Project Thing**
