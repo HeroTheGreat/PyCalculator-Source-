@@ -39,10 +39,5 @@ Guess what? I made a calculator using Unity, and then I thought, "Hey, wouldn't 
 
 - **Python is not the coolest tho:** Python isn't just for snakes; it's for doing really smart math things. You'll see.
 
-##  The code
-
-- Unity C# scripts live in `Assets/Scripts`. They're the cool kids.
-- Python scripts? Oh, they're hanging out in `Assets/Scripts/PythonIntegration`. They're like Unity's quirky friends.
-
 ---
 
